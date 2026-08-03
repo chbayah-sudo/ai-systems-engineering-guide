@@ -29,6 +29,9 @@ To re-run or edit the cells, the only dependency is matplotlib:
 pip install matplotlib
 ```
 
+The drawing code (colors, boxes, frames, arrows) lives in
+[`utils.py`](utils.py), so the figure cells in the notebook stay short.
+
 ## License
 
 MIT. Use it for whatever — a star is appreciated if it was useful.
